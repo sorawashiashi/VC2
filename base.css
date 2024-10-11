@@ -1,0 +1,11 @@
+@charset "utf-8";
+body h1 {
+    color: #9DB7FF;
+    text-shadow: 2px 2px #00375E;
+}
+body img {
+    background-color: #B7F7BA;
+}
+.key {
+    color: #FF5050;
+}
